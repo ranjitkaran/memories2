@@ -1,3 +1,4 @@
-# Instagram-clone-MERN-Stack
+# memories-app-MERN-Stack
 
-This Repo has complete code of my MERN stack series on YouTube https://www.youtube.com/playlist?list=PLB97yPrFwo5g0FQr4rqImKa55F_aPiQWk
+This is a social media app, using MongoDB database, Express.js, Node.js, React.js
+App Link -> https://memoriesranjit.herokuapp.com/
